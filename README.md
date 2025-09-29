@@ -77,7 +77,7 @@
 
 ## 📸 Snapshots
 
-*(Here you can add the screenshots from the `Screenshot.zip` file to showcase the app.)*
+[Screenshot.zip](https://github.com/user-attachments/files/22589850/Screenshot.zip)
 
 ---
 
